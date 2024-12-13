@@ -15,3 +15,11 @@ Competitive Programming also fascinates me the most and I have actively particip
 
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="c" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="linux" width="35" height="35"/></p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=thenikhilsharma&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thenikhilsharma&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thenikhilsharma&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=thenikhilsharma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
